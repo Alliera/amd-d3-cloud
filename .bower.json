@@ -1,0 +1,32 @@
+{
+  "name": "amd-d3-cloud",
+  "main": "d3.layout.cloud.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Mirajjj/d3-cloud",
+  "authors": [
+    "mirajjj <glal@ukr.net>"
+  ],
+  "description": "For private purposes",
+  "keywords": [
+    "d3",
+    "cloud",
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "1e24161e578920a5b3ecfac4f9be42fa40de06bd"
+  },
+  "_source": "https://github.com/Mirajjj/d3-cloud.git",
+  "_target": "0.0.1",
+  "_originalSource": "amd-d3-cloud"
+}
